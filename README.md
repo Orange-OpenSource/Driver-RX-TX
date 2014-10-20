@@ -25,4 +25,6 @@ limitations under the License.
 
 
 
-Note: This project is an OSGi bundle.
+Note:
+- This project produces an OSGi bundle.
+- The driver-rx-tx.jar file is a turn-key OSGi bundle can be used as is.
